@@ -16,8 +16,8 @@
 
 ![Github Last Commit](https://img.shields.io/github/last-commit/cybaka520/InkCanvasForClass-zero)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://gitea.bliemhax.com/kriastans/InkCanvasForClass-zero/src/branch/master/LICENSE)
-![Github Stars](https://img.shields.io/github/stars/InkCanvasForClass-zero/InkCanvasForClass?style=flat)
-![Github Forks](https://img.shields.io/github/forks/InkCanvasForClass-zero/InkCanvasForClass?style=flat)
+![Github Stars](https://img.shields.io/github/stars/cybaka520/InkCanvasForClass-zero?style=flat)
+![Github Forks](https://img.shields.io/github/forks/cybaka520/InkCanvasForClass-zero?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/cybaka520/InkCanvasForClass-zero)
 <br/>
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/X9ZAp5Ulky)
