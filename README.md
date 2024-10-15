@@ -14,11 +14,11 @@
 一款开源易用的电子教鞭软件，专为课堂教学场景优化设计<br/>
 **这将会是最后一次基于 `InkCanvas` 控件的倔强**
 
-![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://gitea.bliemhax.com/kriastans/InkCanvasForClass/src/branch/master/LICENSE)
-![Github Stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?style=flat)
-![Github Forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/InkCanvasForClass/InkCanvasForClass)
+![Github Last Commit](https://img.shields.io/github/last-commit/cybaka520/InkCanvasForClass-zero)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://gitea.bliemhax.com/kriastans/InkCanvasForClass-zero/src/branch/master/LICENSE)
+![Github Stars](https://img.shields.io/github/stars/InkCanvasForClass-zero/InkCanvasForClass?style=flat)
+![Github Forks](https://img.shields.io/github/forks/InkCanvasForClass-zero/InkCanvasForClass?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/cybaka520/InkCanvasForClass-zero)
 <br/>
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/X9ZAp5Ulky)
 [![Telegram](https://img.shields.io/badge/-Telegram%20@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
