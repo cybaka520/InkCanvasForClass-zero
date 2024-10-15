@@ -15,7 +15,7 @@
 **这将会是最后一次基于 `InkCanvas` 控件的倔强**
 
 ![Github Last Commit](https://img.shields.io/github/last-commit/cybaka520/InkCanvasForClass-zero)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://gitea.bliemhax.com/kriastans/InkCanvasForClass-zero/src/branch/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://gitea.bliemhax.com/kriastans/InkCanvasForClass/src/branch/master/LICENSE)
 ![Github Stars](https://img.shields.io/github/stars/cybaka520/InkCanvasForClass-zero?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/cybaka520/InkCanvasForClass-zero?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/cybaka520/InkCanvasForClass-zero)
@@ -30,7 +30,7 @@
 - **耻辱柱**： 牢记 **`幻想熵K2ro`** 对本项目带来的影响。
 
 > [!important]
-> **此项目仍在开发中，只会在发布正式发行版时提供Release**<br>
+> **此项目仍在开发中**<br>
 > QQ 群内有 ICC 比较稳定的版本，可以加 QQ 群获取
 > 
 > 本产品与peppy的osu!以及其周边项目和产品无任何关联，若有侵权，请联系Dev协商解决。
