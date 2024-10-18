@@ -4,7 +4,7 @@
 **这将会是最后一次基于 `InkCanvas` 控件的倔强**
 
 ![Github Last Commit](https://img.shields.io/github/last-commit/cybaka520/InkCanvasForClass-zero)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://gitea.bliemhax.com/kriastans/InkCanvasForClass/src/branch/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg "LICENSE")](https://github.com/cybaka520/InkCanvasForClass-zero/LICENSE)
 ![Github Stars](https://img.shields.io/github/stars/cybaka520/InkCanvasForClass-zero?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/cybaka520/InkCanvasForClass-zero?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/cybaka520/InkCanvasForClass-zero)
