@@ -1,14 +1,3 @@
-# 发生了什么？
-
-一切化成了灰烬。这曾经也是美好的一抹遐思...
-
----
-
-
-![annotation is just a click away](./icc-github-illustrations.png)
-
-<div align="center">
-
 # InkCanvasForClass
 
 一款开源易用的电子教鞭软件，专为课堂教学场景优化设计<br/>
@@ -31,8 +20,6 @@
 
 > [!important]
 > **此项目仍在开发中**<br>
-> QQ 群内有 ICC 比较稳定的版本，可以加 QQ 群获取
-> 
 > 本产品与peppy的osu!以及其周边项目和产品无任何关联，若有侵权，请联系Dev协商解决。
 
 🍰 **ICC 使用了由 iNKORE Studios 开发的控件库：[`iNKORE.UI.WPF.Modern`](https://github.com/iNKORE-NET/UI.WPF.Modern/)**
